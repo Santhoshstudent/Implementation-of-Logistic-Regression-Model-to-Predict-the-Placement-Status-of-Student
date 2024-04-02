@@ -80,18 +80,18 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
  ````
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-![image ml 1](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/debdc54d-2ed2-4561-b31e-ce8064148400)
-![image  ml 2](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/8a38cca3-3e46-4521-a28f-400ccacecfff)
-![image ml 3](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/349fb16b-a234-4300-9091-c381d1305b43)
-![image ml 4](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/4aace5f8-8563-4d8d-94cd-fa20228716a2)
-![image ml 5](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/38597af8-9934-49f4-a174-ce05fa18bf8f)
-![image ml 6](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/2889ec1b-c3b2-4eff-8a7e-5112aecd65a7)
-![image ml 7](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/e30acbc0-f809-4eb5-a338-d8dacb47fa0c)
-![image4 ml 8](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/77a7400f-d3f7-41c3-8dbe-51da358c6c37)
-![image ml 9](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/365d9e99-cb37-48ee-b612-fde9eb33221d)
-![image ml 10](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/aa4e1291-34c8-4d1e-a111-d7a3fc3e21ac)
-![image ml 11](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/0ddd5c05-3e67-4c65-b60c-d2090647026d)
+[the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+[image ml 1](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/debdc54d-2ed2-4561-b31e-ce8064148400)
+[image  ml 2](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/8a38cca3-3e46-4521-a28f-400ccacecfff)
+[image ml 3](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/349fb16b-a234-4300-9091-c381d1305b43)
+[image ml 4](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/4aace5f8-8563-4d8d-94cd-fa20228716a2)
+[image ml 5](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/38597af8-9934-49f4-a174-ce05fa18bf8f)
+[image ml 6](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/2889ec1b-c3b2-4eff-8a7e-5112aecd65a7)
+[image ml 7](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/e30acbc0-f809-4eb5-a338-d8dacb47fa0c)
+[image4 ml 8](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/77a7400f-d3f7-41c3-8dbe-51da358c6c37)
+[image ml 9](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/365d9e99-cb37-48ee-b612-fde9eb33221d)
+[image ml 10](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/aa4e1291-34c8-4d1e-a111-d7a3fc3e21ac)
+[image ml 11](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/0ddd5c05-3e67-4c65-b60c-d2090647026d)
 
 
 
