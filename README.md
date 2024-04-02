@@ -79,40 +79,6 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 ## Output:
-![image](https://github.com/Kamaleshwa/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144980199/979e613e-fb9c-4c8d-84a7-7d2db44f84fc)
-
-
-![image](https://github.com/Kamaleshwa/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144980199/0920577b-5ea9-4225-834b-aa6711ce1854)
-
-
-![image](https://github.com/Kamaleshwa/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144980199/dfde897c-1179-431c-a34f-d8c0a28f5bf1)
-
-
-![image](https://github.com/Kamaleshwa/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144980199/33bf7275-8ab9-4354-8e9a-23641b323b63)
-
-
-![image](https://github.com/Kamaleshwa/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144980199/15866f74-b4d9-46fd-9f1d-11c7cc4e3c91)
-
-
-![image](https://github.com/Kamaleshwa/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144980199/2f2c9810-e1bc-4ba6-bb2f-da6d6a16ca8f)
-
-
-![image](https://github.com/Kamaleshwa/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144980199/c493b648-b2d0-4cff-8331-8a072a5c0470)
-
-
-![image](https://github.com/Kamaleshwa/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144980199/35524441-44f9-4bfb-aac8-896f67ca4126)
-
-
-![image](https://github.com/Kamaleshwa/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144980199/f78e8430-82a1-47af-9e9d-a642ef023f96)
-
-
-![image](https://github.com/Kamaleshwa/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144980199/addb70b4-3cbf-4bf3-8982-da5c543cf507)
-
-
-![image](https://github.com/Kamaleshwa/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144980199/60bbcaeb-bd66-427d-abf3-c0b4341b17b9)
-
-
-
 
 
 ## Result:
