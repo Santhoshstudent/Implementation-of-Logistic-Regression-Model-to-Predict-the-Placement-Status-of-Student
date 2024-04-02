@@ -23,7 +23,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ## Developed by: santhosh kumar B
 ## RegisterNumber: 212223230193
 ````
-`````
+
 import pandas as pd
 data=pd.read_csv("Placement_Data.csv")
 data.head()
