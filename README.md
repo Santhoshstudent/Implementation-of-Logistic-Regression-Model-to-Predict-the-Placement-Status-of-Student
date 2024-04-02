@@ -1,4 +1,4 @@
-![image](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/55b1f5e3-fc94-4c64-8a6c-e3e11b7a59ca)# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
