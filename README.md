@@ -1,5 +1,3 @@
-
-
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 
@@ -89,7 +87,8 @@ classification_report1 = classification_report(y_test,y_pred)
 
 print(classification_report1)
 
-lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
+lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]
+````
 
 ## Output:
 ![image](https://github.com/Santhoshstudent/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/145446853/dcd405d2-c4f7-4f1c-b062-0b426607ae2a)
